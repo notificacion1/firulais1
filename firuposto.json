@@ -1,0 +1,537 @@
+{
+  "categorias_powerstore": [
+    {
+      "nombre_categoria": "La Rata",
+      "canales_categoria": [
+        {
+          "nombre_canal": "la rata",
+          "tipoContenido": "ENLACE_WEB",
+          "urlDestino": "https://www.enlaceficticiodelarata.com/descarga",
+          "url_logo": "https://i.postimg.cc/vTT2F85C/1765245502519.png",
+          "id_app_powerstore": "la_rata_ficticio_00",
+          "descripcion_app_powerstore": "La Rata."
+        }
+      ]
+    },
+    {
+      "nombre_categoria": "Canal de Avisos",
+      "canales_categoria": [
+        {
+          "nombre_canal": "Power Store V2",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/ceyd25rgngqbmnagfxzmx/Powerdefinitiva.zip?rlkey=tzpe5szl84uwc10k65ihqmana&st=ht22m0fx&dl=1",
+          "url_logo": "https://i.postimg.cc/xj7RGPrC/1765049572406.jpg",
+          "id_app_powerstore": "powerstore_v2",
+          "descripcion_app_powerstore": "Versión 2 de la Power Store."
+        },
+        {
+          "nombre_canal": "Avisos de Actualizaciones",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/pmizbq3e9fmokiqw12gs9/Notificaciones.zip?rlkey=qwgxpvqgyp0w1p12c3gnlm8ox&st=x7w5apc7&dl=1",
+          "url_logo": "https://i.postimg.cc/C1cZs97D/1764001879406.jpg",
+          "id_app_powerstore": "actualizacion_store_01",
+          "descripcion_app_powerstore": ""
+        }
+      ]
+    },
+    {
+      "nombre_categoria": "Apps de TV",
+      "canales_categoria": [
+        {
+          "nombre_canal": "PLAYTV",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/dm0gyeu746pn5cjl1lpj4/Play-TV-Premium.zip?rlkey=v7vcp2a2obxpgmpt8g3q5pv7r&st=hhdr8nf1&dl=1",
+          "url_logo": "https://i.postimg.cc/qqYWcKLk/images.jpg",
+          "id_app_powerstore": "playtv_01",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "TV ONLINE VERDE",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/ykk6u60aguagb2ss1kb79/TVCLASICA100-5.apk?rlkey=tvrazx85z1v0nkd3n3tplfkoa&st=jpatk2de&dl=1",
+          "url_logo": "https://i.postimg.cc/rsGPtnKJ/images-1.jpg",
+          "id_app_powerstore": "tvonlineclasica_02",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "TV ONLINE VIOLETA",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/qxpkhzk953e4b2tjp2qv5/TV-CLASICA_100.zip?rlkey=8uz06htl8jrka3c280tvrtkce&st=wwpti351&dl=1",
+          "url_logo": "https://i.postimg.cc/rsGPtnKJ/images-1.jpg",
+          "id_app_powerstore": "tvonlineclasica_02_v2",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "WORLDTV2",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/aadzsta5xnarl9z6scp7s/worldtv2_3.0.8.zip?rlkey=rl99npdu2lfou4kkqhogmtbtk&st=m73sm2h0&dl=1",
+          "url_logo": "https://i.postimg.cc/G22NVJg3/images.png",
+          "id_app_powerstore": "worldtv2_03",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "TELEPLAY PRO",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/qjfpuq6zjtq674md3kmwe/Teleplay_Pro_sign-4.zip?rlkey=t5bez00s0g0o30pdf09c2fy3j&st=2s9lb3uy&dl=11",
+          "url_logo": "https://i.postimg.cc/qMRRw9xW/teleplay-512.png",
+          "id_app_powerstore": "teleplaypro_04",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Xuper 4.34.4",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/78ymfggl66bkui2kjbdi1/Xuper_4.34.4.zip?rlkey=h88odx9oeh1v3q3x0lnzrl54f&st=0dcmct0q&dl=1",
+          "url_logo": "https://i.postimg.cc/W1mCsd45/62072645-689e-4d5e-bdb2-fc5b1f32b42d.jpg",
+          "id_app_powerstore": "magis_4_34_1_05",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "OCTOPUS",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/vbgn6vb4yraspeumizqya/Octopus_v_1_0_24_tv_box_obt-1.zip?rlkey=zydnv4wabpu5fjcc3xdwq87i8&st=vmqb4zu4&dl=11",
+          "url_logo": "https://i.postimg.cc/Y9YgpTsd/unnamed.png",
+          "id_app_powerstore": "octopus_06",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "DVEX",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/uv2fsv8zfuh71er23nxsf/DVEX_Movil_TV_Clon-4.zip?rlkey=123tmkdpi4au44v4oil4glghp&st=v4tn019k&dl=11",
+          "url_logo": "https://i.postimg.cc/rpbCy1Fw/Tp0-Gr-LQZ-400x400.jpg",
+          "id_app_powerstore": "dvex_07",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "NX2112",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/38gskgnjxvv0lmx8sxmzd/IPTV_Smarters_Pro_base-2.zip?rlkey=uh6meg4rs0vtdguypmxxevalp&st=2icglhau&dl=11",
+          "url_logo": "https://i.postimg.cc/25XTbpTm/unnamed.jpg",
+          "id_app_powerstore": "nx2112_08",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "FOCUS TV",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/f4shlc3jnw3319kcohsxr/Focus_Tv.zip?rlkey=nailmj5dei8ng0aomgcy97p94&st=ibtz411r&dl=11",
+          "url_logo": "https://i.postimg.cc/sXw6JQVF/images-2.jpg",
+          "id_app_powerstore": "focustv_09",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "FCTV77",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/5b612z87ai6jyhjr20jnj/FCTV33-TV-_v3.0.314-314-_Mod.zip?rlkey=tny8agq3vsuq25govxz6vyb9q&st=8v1tjb2y&dl=1",
+          "url_logo": "https://i.postimg.cc/sfmDC90N/FCTV77-APK.jpg",
+          "id_app_powerstore": "fctv77_10",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "RBTV77",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/d3ik1qr8na4s8iphyjhk9/RBTV-TV-_v3.0.314-314-_Mod.zip?rlkey=cdgt27c1qxvnigvi1k7d3aa7w&st=0mbc2jo2&dl=1",
+          "url_logo": "https://i.postimg.cc/VkkxVJbT/rbtv77-live-streaming-logo.jpg",
+          "id_app_powerstore": "rbtv77_11",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "MXLTv",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/h0ythffgx2mtirxw61u5a/Mxl-iptv.zip?rlkey=jxf76lcb2z2n5g0gfo519q1r9&st=eaxj67rt&dl=11",
+          "url_logo": "https://i.postimg.cc/BbhJLw8S/Er-S4w-W3-XMAEpp-Zp.jpg",
+          "id_app_powerstore": "mxltv_12",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "PLAYER LATINO",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/5ch00jypw4qn568cxj34b/PLayer-Pro_v4.0.7-8-_mod.zip?rlkey=3wxkad2n7utxombxpluasfm7g&st=2hcbv1ce&dl=11",
+          "url_logo": "https://i.postimg.cc/3x4xzPkq/Screenshot-20250128-191457-Gallery.jpg",
+          "id_app_powerstore": "playerlatino_13",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "M PLUS",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/pq1t7i2bvlczlxif8e47o/Mplus-ltima.zip?rlkey=0rrrojl4ha5itfb6y4s8gyg84&st=4uw4n538&dl=1",
+          "url_logo": "https://i.postimg.cc/c15gSgrD/unnamed.png",
+          "id_app_powerstore": "mplus_17",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "ONEPLAYER (CANALES DE AIRE)",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/ydwhpfsh68yc33s5bektz/oneplayer.zip?rlkey=zrtoqfkermssxfqlbaku8nak6&st=cgp9kljt&dl=11",
+          "url_logo": "https://i.postimg.cc/25h8n2Qd/images.jpg",
+          "id_app_powerstore": "oneplayer_aire_18",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "NERDTV",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/1ltgoj9lakhdj5iobal2r/NERDTV3.zip?rlkey=zdcmw9lvg6tqabmgyteyths9x&st=f2aryfy7&dl=11",
+          "url_logo": "https://i.postimg.cc/0ydJsk31/images.png",
+          "id_app_powerstore": "nerdtv_19",
+          "descripcion_app_powerstore": ""
+       },
+        {
+          "nombre_canal": "POWER TV FINAL",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/vmdfli7tsfhshd0k7aqy4/Powerconfavoritos.zip?rlkey=abcnxdo5bcu2mxglc00fa6led&st=xuglcru3&dl=1",
+          "url_logo": "https://i.postimg.cc/3R2Cq6r9/1754152473690-1.jpg",
+          "id_app_powerstore": "powertv_20",
+          "descripcion_app_powerstore": "Aplicación Power TV."
+        },
+        {
+          "nombre_canal": "DTV",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/1vfdk1cz7e572kqnznysa/dtv-2.zip?rlkey=odgm8h1cp2e5udjdv42mrae8y&st=3dlbp0wb&dl=11",
+          "url_logo": "https://i.postimg.cc/tJSBLzNL/images.jpg",
+          "id_app_powerstore": "dtv_21",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Cricfy tv",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/oqnqgjg65smbltfj89b4w/com.cricfy.tv_v5.5_opt.zip?rlkey=iq1mak2xs2zj896rinmpo58ip&st=bpdnxvwx&dl=11",
+          "url_logo": "https://i.postimg.cc/HW2146LM/Cricfy-Image-1.webp",
+          "id_app_powerstore": "cricfytv_22",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Gee sports",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/2k7m1f39ek1gv9oim1gez/com.pro.geesports_v2.0_opt-1.zip?rlkey=d4rx80qz7opmp76kwbwjysa5i&st=x0zksjxl&dl=11",
+          "url_logo": "https://i.postimg.cc/2yXH9bJs/images.jpg",
+          "id_app_powerstore": "geesports_23",
+          "descripcion_app_powerstore": ""
+        }
+      ]
+    },
+    {
+      "nombre_categoria": "Apps de Películas y Series",
+      "canales_categoria": [
+        {
+          "nombre_canal": "PlayPelis",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/kazm0jxm942prst2clbv9/PlayPelis-1.4.8-Premium-Obfuscated-by-MCD.zip?rlkey=7dtzqceg7jl0qrjkqzevowp5q&st=hcqh9jb4d&dl=11",
+          "url_logo": "https://i.postimg.cc/PrbWJ2ZH/playpelis-apk-premium.jpg",
+          "id_app_powerstore": "ps_playpelis_01",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Pollito TV",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/kno6tmwghthaohw7jhn5w/PollitoTv_30.0_Mod.zip?rlkey=4978gkobwttquev6r2xz7nzpb&st=hlhcalzs&dl=11",
+          "url_logo": "https://i.postimg.cc/rsxSS9PS/screen-6.jpg",
+          "id_app_powerstore": "ps_pollitotv_02",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Movie Plus",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/oph2m2fw76o5yi1z4vc4a/MoviePlus.armeabi-v7a.zip?rlkey=xbuvyqdompjeicp1tzl7ygrer&st=oi3jjw6m&dl=11",
+          "url_logo": "https://i.postimg.cc/t4yzNLy7/Featured-Movie-Plus.jpg",
+          "id_app_powerstore": "ps_movieplus_03",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "FA Plus",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/ihg90eye5yhzou2crexo2/F.A-Plus-v1.4.4-Premium-Obfuscated-by-MCD.zip?rlkey=fbnhyhbai63aczclokstiitp4&st=ottaaba5&dl=11",
+          "url_logo": "https://i.postimg.cc/9fLRH9yG/FA-Plus.jpg",
+          "id_app_powerstore": "ps_faplus_04",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Dixmax",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/yswgwfvu0xnxn8mazmack/dixmax-v2.4.1.zip?rlkey=hd643kizye09i3e07rw0k1b2l&st=926dcqi&dl=11",
+          "url_logo": "https://i.postimg.cc/G38zLFq3/d02860cd3486ba1eff8cf8f7a09b910aa87c4dbcb0484388dcde79f19838dd2f-600.jpg",
+          "id_app_powerstore": "ps_dixmax_05",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Reproductor Dixmax",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/cw5wksjcufx0qjhv4wc80/Pur-Video-Player_1.8.8_Apkpure.zip?rlkey=w0yonr1fpst0cvin5sebwkrjn&st=gfuvs585&dl=11",
+          "url_logo": "https://i.postimg.cc/XJXLydW8/c121c13b8b1163aeebf23a266250fbf7-fgraphic.png",
+          "id_app_powerstore": "ps_reproductordixmax_06",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "PelisPlay",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/mdktxdr212c521ks13s6b/PelisPlay_v1.21_vip-1.zip?rlkey=meumvhp8vo4ht1c2aipqf2ac0&st=200wuaqb&dl=11",
+          "url_logo": "https://i.postimg.cc/g2qg9G4v/images.png",
+          "id_app_powerstore": "ps_pelisplay_07",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "MXL Movies con Publicidad",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/slpbhujkewnzol2qtkm6k/Mxlmovies.zip?rlkey=32kkiot6j6bnhbuzfyuix9cfk&st=syj8gj6e&dl=11",
+          "url_logo": "https://i.postimg.cc/MZNPVPvj/banner.jpg",
+          "id_app_powerstore": "ps_mxlmovies_08",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "NetMirror",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/nb9oohwf44kqf4q6mzc4m/NetMirrorTV.zip?rlkey=pe7p0wrpxa57lrsqgd2onlin8&st=w4lrogs9&dl=11",
+          "url_logo": "https://i.postimg.cc/NFzwdJ6q/netmirror-thumbnail.jpg",
+          "id_app_powerstore": "ps_netmirror_09",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Netfly",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/yw9w78jv6gqvmcchpcyrn/netfly_tv-2.zip?rlkey=kcp3mqrfovxdk95b4vuap21vv&st=cxigctzn&dl=1",
+          "url_logo": "https://i.postimg.cc/xT0hdxsX/J-H2o-O6-L-200x200.jpg",
+          "id_app_powerstore": "ps_netfly_10",
+          "descripcion_app_powerstore": ""
+        }
+      ]
+    },
+    {
+      "nombre_categoria": "YouTube y Música",
+      "canales_categoria": [
+        {
+          "nombre_canal": "YOUTUBE PREMIUM",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/wkx1xxcv1dgp09kfqgonm/Youtube-actu.zip?rlkey=7zru1bo24s45zliquuzjlflo0&st=qrvrwecg&dl=1",
+          "url_logo": "https://i.postimg.cc/13mcy5Y7/bnk-En-Gvi1-720x0-1.jpg",
+          "id_app_powerstore": "ps_ytpremium_01",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "RI MUSIC - SOLO EQUIPOS CERTIFICADOS",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/xg25ew891d1bo6yeha3e5/it.fast4x.rimusic_82-1.zip?rlkey=sv4bamuig2hayeojctamk1pld&st=f5pn7wc8&dl=11",
+          "url_logo": "https://i.postimg.cc/xjJwr84f/images.png",
+          "id_app_powerstore": "ps_rimusic_02",
+          "descripcion_app_powerstore": ""
+        }
+      ]
+    },
+    {
+      "nombre_categoria": "Adulto",
+      "canales_categoria": [
+        {
+          "nombre_canal": "XXX Online",
+          "tipoContenido": "ENLACE_WEB",
+          "urlDestino": "https://www.xvideos.es/",
+          "url_logo": "https://i.postimg.cc/CKSkhw8d/XVideos-logo.jpg",
+          "id_app_powerstore": "adulto_01",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "App de Videos",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/oz5n4vyk9istftfh31y8u/ALL_IN_1_AF_3_3_260_FireSticksNonBanner_Black_CustomAdaptive-1.zip?rlkey=85h6xnis8sl7tj2pm1crjzmi4&st=sfzq767a&dl=1",
+          "url_logo": "https://i.postimg.cc/nzTkbCwH/articulos1-242.jpg",
+          "id_app_powerstore": "adulto_02",
+          "descripcion_app_powerstore": ""
+        }
+      ]
+    },
+    {
+      "nombre_categoria": "Complementos",
+      "canales_categoria": [
+        {
+          "nombre_canal": "Movifly no usar como app",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/dgykyr5ai1phk9kuqc8lh/Movifly.zip?rlkey=8dx4polic1vy7akbjtdzu3nz1&st=ndlaxf3w&dl=11",
+          "url_logo": "https://i.postimg.cc/85QYhH5j/screen-4.jpg?nocache=1",
+          "id_app_powerstore": "complementos_01",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Background",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/24q6sjqfezibair3hq92z/Background-Apps-Process-List_1.3G17i-1.zip?rlkey=3jjp3yxga2dxvnvvmfchae61b&st=s0v2jqc5&dl=11",
+          "url_logo": "https://i.postimg.cc/J73D41Px/unnamed.png",
+          "id_app_powerstore": "complementos_02",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Delorean con torre de reloj",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/l36wtmpxawhjakrhpo5yx/delorean-torre-reloj-paneo-5000.mp4?rlkey=1eoycvcqj24x2nfkvik1oc0hj&st=ldqt53nt&dl=11",
+          "url_logo": "https://i.postimg.cc/P5Bz5hxW/Screenshot-20250415-213350-Gallery.jpg",
+          "id_app_powerstore": "complementos_03",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Delorean quieto",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/2zo3chgnub095mntqce94/delorean-torre-reloj-3000.mp4?rlkey=m7h9rxg0gmrc2ph9xx8vyu5fi&st=m381cxts&dl=11",
+          "url_logo": "https://i.postimg.cc/x8ccmJpc/Screenshot-20250415-213333-Gallery.jpg",
+          "id_app_powerstore": "complementos_04",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "River",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/7ml9x44vk88206u199y7b/river-5000kbps.mp4?rlkey=uuyq554hlaqwbfyl5d90f99t1&st=4z8p55ku&dl=11",
+          "url_logo": "https://i.postimg.cc/1XR4bpd7/cancha-de-river.jpg",
+          "id_app_powerstore": "complementos_05",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Boca",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/f2ectixn09z85mrv56ydn/boca-5000kbps.mp4?rlkey=xfogrmx1rtlkn2n7pp1trlccq&st=r2e4psaa&dl=11",
+          "url_logo": "https://i.postimg.cc/2SgsJrtP/d-B5b-Gz-HY-1200x0-1.jpg",
+          "id_app_powerstore": "complementos_06",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Projectivy",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/ohzda0wm4a9y6wz83pzg6/Projectivy-Launcher.zip?rlkey=y8randdnjd3ihdhe1p21tu4qo&st=i5qci04f&dl=11",
+          "url_logo": "https://i.postimg.cc/mZ7q33WN/37d92d071bec99d0c62448bf8761060c.png",
+          "id_app_powerstore": "complementos_07",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Requerido ONN Android 14",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/nn3yzuu9p6m03axhuyj6t/LM-ATV-1.0.4.zip?rlkey=1nne02up5lo69cav2ofvzkgrr&st=36183jrr&dl=11",
+          "url_logo": "https://i.postimg.cc/ZqbYy2HY/850784.png",
+          "id_app_powerstore": "complementos_08",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "ottnavigator",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/jepvqvbl56cc2d7jjbe7q/ottnav-1.7.2.2-25012518-1.zip?rlkey=88xnbhaiqppmoj3u24ud5i5zl&st=85i4pvml&dl=1",
+          "url_logo": "https://i.postimg.cc/ryGKQ6hY/ott-navigator-iptv-logo.png",
+          "id_app_powerstore": "complementos_09",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "Parallel",
+          "tipoContenido": "APK",
+          "url_stream": "https://www.dropbox.com/scl/fi/n3bwo522icb4qv7ktrymz/Parallel-Space-Pro-v4.0.9082-androforever.com.zip?rlkey=b35ib2ur2u3d1ih6u801k3ijd&st=fnqwif8y&dl=1",
+          "url_logo": "https://i.postimg.cc/901gsmNM/app-android-parallel-space-L-I8l-OAo.png",
+          "id_app_powerstore": "complementos_10",
+          "descripcion_app_powerstore": ""
+        }
+      ]
+    },
+    {
+      "nombre_categoria": "Listas IPTV",
+      "canales_categoria": [
+        {
+          "nombre_canal": "LISTA 1",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/55nzaoctnswzuiwcorlon/Lista1.m3u?rlkey=ani2n3w0ryobqiqnupyjg6dc6&st=7hkfvkkj&dl=11",
+          "url_logo": "https://i.postimg.cc/Lsj5XbRz/unnamed.png",
+          "id_app_powerstore": "listas_iptv_01",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "LISTA 2",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/jg2u5bmrbs0vd0eywd4cj/Lista2.m3u?rlkey=he88n1kaweevb7h6rvlns74ey&st=9myasugb&dl=11",
+          "url_logo": "https://i.postimg.cc/Lsj5XbRz/unnamed.png",
+          "id_app_powerstore": "listas_iptv_02",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "LISTA 3",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/nh71zeyc6iocfgbrf58id/Lista3.m3u?rlkey=v30lyowekcawuyxng0u0xmamh&st=jdgm5p0k&dl=11",
+          "url_logo": "https://i.postimg.cc/Lsj5XbRz/unnamed.png",
+          "id_app_powerstore": "listas_iptv_03",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "LISTA 4",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/8ba019vu60yr27f0693ck/Lista4.m3u?rlkey=04pjvgyv88d7ing62eak8185u&st=dbz8ik73&dl=11",
+          "url_logo": "https://i.postimg.cc/Lsj5XbRz/unnamed.png",
+          "id_app_powerstore": "listas_iptv_04",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "LISTA 5",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/r2qq5epywtc11x060d61m/Lista5.m3u?rlkey=0kpcudgbqqdl9137fj2yspn7s&st=rhufwaav&dl=11",
+          "url_logo": "https://i.postimg.cc/Lsj5XbRz/unnamed.png",
+          "id_app_powerstore": "listas_iptv_05",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "LISTA 6",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/t0xsg8my88a5xiu4zobw0/Lista6.m3u?rlkey=r7lxwhyuyfbki8zwlra01sgn2&st=1pkmk6tr&dl=11",
+          "url_logo": "https://i.postimg.cc/Lsj5XbRz/unnamed.png",
+          "id_app_powerstore": "listas_iptv_06",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "LISTA 7",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/moz3vn96gl5u9y9tmc219/Lista7.m3u?rlkey=93g0thwsml1177mlfszkw97th&st=25zl57gb&dl=11",
+          "url_logo": "https://i.postimg.cc/Lsj5XbRz/unnamed.png",
+          "id_app_powerstore": "listas_iptv_07",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "LISTA 8",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/h6doidvrlzgya81xgzf57/Lista8.json?rlkey=xjbb3hq2d4k5pdtad2g2kcae3&st=r9c5nqrd&dl=11",
+          "url_logo": "https://i.postimg.cc/Lsj5XbRz/unnamed.png",
+          "id_app_powerstore": "listas_iptv_08",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "LISTA 9",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/ir51vneqp95dc0xdqnyuu/Lista9.m3u?rlkey=1hq16rvfhpu9ipuc6r0dt2h9p&st=fjcibvxr&dl=11",
+          "url_logo": "https://i.postimg.cc/Lsj5XbRz/unnamed.png",
+          "id_app_powerstore": "listas_iptv_09",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "LISTA 10",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/3kturhx2uj2ej0jnao1lg/Lista10.m3u?rlkey=ctjjgnbr43w4x6sbtkiqkqniv&st=ddkihm0l&dl=11",
+          "url_logo": "https://i.postimg.cc/Lsj5XbRz/unnamed.png",
+          "id_app_powerstore": "listas_iptv_10",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "LISTA 11",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/ua3e7ukjohtzlz5ady219/Lista11.m3u?rlkey=yry5r5alwgmtoqd70w9u06jjk&st=e2vdnxmx&dl=11",
+          "url_logo": "https://i.postimg.cc/Lsj5XbRz/unnamed.png",
+          "id_app_powerstore": "listas_iptv_11",
+          "descripcion_app_powerstore": ""
+        },
+        {
+          "nombre_canal": "LISTA 12",
+          "tipoContenido": "ARCHIVO_DESCARGABLE",
+          "urlDestino": "https://www.dropbox.com/scl/fi/k0k41dbymthnfwc5ops9n/Lista-power.txt?rlkey=qtqjj2yzdot3werfka3dnpefw&st=errxuvbo&dl=11",
+          "url_logo": "https://i.postimg.cc/Lsj5XbRz/unnamed.png",
+          "id_app_powerstore": "listas_iptv_12",
+          "descripcion_app_powerstore": ""
+        }
+      ]
+    },
+    {
+      "nombre_categoria": "TV por Internet",
+      "canales_categoria": [
+        {
+          "nombre_canal": "TV Libre Online",
+          "tipoContenido": "ENLACE_WEB",
+          "urlDestino": "https://tvlibrehd.online/",
+          "url_logo": "https://i.postimg.cc/nh47H5Zy/images.jpg",
+          "id_app_powerstore": "tv_por_internet_01",
+          "descripcion_app_powerstore": ""
+        }
+      ]
+    }
+  ]
+}
